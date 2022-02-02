@@ -2,6 +2,6 @@ POST http://localhost:3001/api/notes
 Content-Type: application/json
 
 {
-    "content": "goodlas",
+    "content": "这个游戏很好玩",
     "important": false
 }
